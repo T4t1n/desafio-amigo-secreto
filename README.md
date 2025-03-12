@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/108771db-269b-4cc9-ba8e-53425e53b166)
 
 <h2>Descripción del Proyecto</h2>
-<p>EL proyecto es una plataforma que permite ingresar nombres de personas, con el fin de elegir un nombrea aletoriamente con el fin de recrear un amigo secreto, se realizo la logica de la plataforma con JS, el archivo HTML y CSS ya estaban creados predeterminadamente.</p>
+<p>EL proyecto es una plataforma que permite ingresar nombres de personas, con el fin de elegir un nombrea aletoriamente con el fin de recrear un amigo secreto, se realizo la logica de la plataforma con JS, el archivo HTML y CSS ya estaban creados predeterminadamente por Alura Latam.</p>
 
 <h3>☑️Proyecto finalizado pero sujeto a actualizaciones futuras.💻</h3>
 
